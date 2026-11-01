@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://extension.lootura.com/sitemap.xml
